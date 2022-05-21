@@ -1,0 +1,339 @@
+id,name,region,incomeLevel
+ABW,Aruba,Latin America & Caribbean ,High income
+AFE,Africa Eastern and Southern,Aggregates,Aggregates
+AFG,Afghanistan,South Asia,Low income
+AFR,Africa,Aggregates,Aggregates
+AFW,Africa Western and Central,Aggregates,Aggregates
+AGO,Angola,Sub-Saharan Africa ,Lower middle income
+ALB,Albania,Europe & Central Asia,Upper middle income
+AND,Andorra,Europe & Central Asia,High income
+ARB,Arab World,Aggregates,Aggregates
+ARE,United Arab Emirates,Middle East & North Africa,High income
+ARG,Argentina,Latin America & Caribbean ,Upper middle income
+ARM,Armenia,Europe & Central Asia,Upper middle income
+ASM,American Samoa,East Asia & Pacific,Upper middle income
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income
+AUS,Australia,East Asia & Pacific,High income
+AUT,Austria,Europe & Central Asia,High income
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income
+BDI,Burundi,Sub-Saharan Africa ,Low income
+BEA,East Asia & Pacific (IBRD-only countries),Aggregates,Aggregates
+BEC,Europe & Central Asia (IBRD-only countries),Aggregates,Aggregates
+BEL,Belgium,Europe & Central Asia,High income
+BEN,Benin,Sub-Saharan Africa ,Lower middle income
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income
+BGD,Bangladesh,South Asia,Lower middle income
+BGR,Bulgaria,Europe & Central Asia,Upper middle income
+BHI,IBRD countries classified as high income,Aggregates,Aggregates
+BHR,Bahrain,Middle East & North Africa,High income
+BHS,Bahamas,Latin America & Caribbean ,High income
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BLA,Latin America & the Caribbean (IBRD-only countries),Aggregates,Aggregates
+BLR,Belarus,Europe & Central Asia,Upper middle income
+BLZ,Belize,Latin America & Caribbean ,Lower middle income
+BMN,Middle East & North Africa (IBRD-only countries),Aggregates,Aggregates
+BMU,Bermuda,North America,High income
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income
+BRA,Brazil,Latin America & Caribbean ,Upper middle income
+BRB,Barbados,Latin America & Caribbean ,High income
+BRN,Brunei Darussalam,East Asia & Pacific,High income
+BSS,Sub-Saharan Africa (IBRD-only countries),Aggregates,Aggregates
+BTN,Bhutan,South Asia,Lower middle income
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income
+CAA,Sub-Saharan Africa (IFC classification),Aggregates,Aggregates
+CAF,Central African Republic,Sub-Saharan Africa ,Low income
+CAN,Canada,North America,High income
+CEA,East Asia and the Pacific (IFC classification),Aggregates,Aggregates
+CEB,Central Europe and the Baltics,Aggregates,Aggregates
+CEU,Europe and Central Asia (IFC classification),Aggregates,Aggregates
+CHE,Switzerland,Europe & Central Asia,High income
+CHI,Channel Islands,Europe & Central Asia,High income
+CHL,Chile,Latin America & Caribbean ,High income
+CHN,China,East Asia & Pacific,Upper middle income
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income
+CLA,Latin America and the Caribbean (IFC classification),Aggregates,Aggregates
+CME,Middle East and North Africa (IFC classification),Aggregates,Aggregates
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income
+COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income
+ATC,Congo,Sub-Saharan Africa ,Lower middle income
+COL,Colombia,Latin America & Caribbean ,Upper middle income
+COM,Comoros,Sub-Saharan Africa ,Lower middle income
+CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income
+CPV,Cape Verde,Sub-Saharan Africa ,Lower middle income
+CRI,Costa Rica,Latin America & Caribbean ,Upper middle income
+CSA,South Asia (IFC classification),Aggregates,Aggregates
+CSS,Caribbean small states,Aggregates,Aggregates
+CUB,Cuba,Latin America & Caribbean ,Upper middle income
+CUW,Curacao,Latin America & Caribbean ,High income
+CYM,Cayman Islands,Latin America & Caribbean ,High income
+CYP,Cyprus,Europe & Central Asia,High income
+CZE,Czech Republic,Europe & Central Asia,High income
+DEA,East Asia & Pacific (IDA-eligible countries),Aggregates,Aggregates
+DEC,Europe & Central Asia (IDA-eligible countries),Aggregates,Aggregates
+DEU,Germany,Europe & Central Asia,High income
+DFS,IDA countries classified as Fragile Situations,Aggregates,Aggregates
+DJI,Djibouti,Middle East & North Africa,Lower middle income
+DLA,Latin America & the Caribbean (IDA-eligible countries),Aggregates,Aggregates
+DMA,Dominica,Latin America & Caribbean ,Upper middle income
+DMN,Middle East & North Africa (IDA-eligible countries),Aggregates,Aggregates
+DNF,IDA countries not classified as Fragile Situations,Aggregates,Aggregates
+DNK,Denmark,Europe & Central Asia,High income
+DNS,IDA countries in Sub-Saharan Africa not classified as fragile situations ,Aggregates,Aggregates
+DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income
+DSA,South Asia (IDA-eligible countries),Aggregates,Aggregates
+DSF,IDA countries in Sub-Saharan Africa classified as fragile situations ,Aggregates,Aggregates
+DSS,Sub-Saharan Africa (IDA-eligible countries),Aggregates,Aggregates
+DZA,Algeria,Middle East & North Africa,Lower middle income
+EAP,East Asia & Pacific (excluding high income),Aggregates,Aggregates
+EAR,Early-demographic dividend,Aggregates,Aggregates
+EAS,East Asia & Pacific,Aggregates,Aggregates
+ECA,Europe & Central Asia (excluding high income),Aggregates,Aggregates
+ECS,Europe & Central Asia,Aggregates,Aggregates
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income
+EGY,Egypt,Middle East & North Africa,Lower middle income
+EMU,Euro area,Aggregates,Aggregates
+ERI,Eritrea,Sub-Saharan Africa ,Low income
+ESP,Spain,Europe & Central Asia,High income
+EST,Estonia,Europe & Central Asia,High income
+ETH,Ethiopia,Sub-Saharan Africa ,Low income
+EUU,European Union,Aggregates,Aggregates
+FCS,Fragile and conflict affected situations,Aggregates,Aggregates
+FIN,Finland,Europe & Central Asia,High income
+FJI,Fiji,East Asia & Pacific,Upper middle income
+FRA,France,Europe & Central Asia,High income
+FRO,Faroe Islands,Europe & Central Asia,High income
+FSM,Micronesia,East Asia & Pacific,Lower middle income
+FXS,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa",Aggregates,Aggregates
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income
+GBR,United Kingdom,Europe & Central Asia,High income
+GEO,Georgia,Europe & Central Asia,Upper middle income
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income
+GIB,Gibraltar,Europe & Central Asia,High income
+GIN,Guinea,Sub-Saharan Africa ,Low income
+GMB,Gambia,Sub-Saharan Africa ,Low income
+GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income
+GRC,Greece,Europe & Central Asia,High income
+GRD,Grenada,Latin America & Caribbean ,Upper middle income
+GRL,Greenland,Europe & Central Asia,High income
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income
+GUM,Guam,East Asia & Pacific,High income
+GUY,Guyana,Latin America & Caribbean ,Upper middle income
+HIC,High income,Aggregates,Aggregates
+HKG,Hong Kong,East Asia & Pacific,High income
+HND,Honduras,Latin America & Caribbean ,Lower middle income
+HPC,Heavily indebted poor countries (HIPC),Aggregates,Aggregates
+HRV,Croatia,Europe & Central Asia,High income
+HTI,Haiti,Latin America & Caribbean ,Lower middle income
+HUN,Hungary,Europe & Central Asia,High income
+IBB,"IBRD, including blend",Aggregates,Aggregates
+IBD,IBRD only,Aggregates,Aggregates
+IBT,IDA & IBRD total,Aggregates,Aggregates
+IDA,IDA total,Aggregates,Aggregates
+IDB,IDA blend,Aggregates,Aggregates
+IDN,Indonesia,East Asia & Pacific,Lower middle income
+IDX,IDA only,Aggregates,Aggregates
+IMN,Isle of Man,Europe & Central Asia,High income
+IND,India,South Asia,Lower middle income
+INX,Not classified,Aggregates,Aggregates
+IRL,Ireland,Europe & Central Asia,High income
+IRN,Iran,Middle East & North Africa,Lower middle income
+IRQ,Iraq,Middle East & North Africa,Upper middle income
+ISL,Iceland,Europe & Central Asia,High income
+ISR,Israel,Middle East & North Africa,High income
+ITA,Italy,Europe & Central Asia,High income
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income
+JOR,Jordan,Middle East & North Africa,Upper middle income
+JPN,Japan,East Asia & Pacific,High income
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KHM,Cambodia,East Asia & Pacific,Lower middle income
+KIR,Kiribati,East Asia & Pacific,Lower middle income
+KNA,Saint Kitts and Nevis,Latin America & Caribbean ,High income
+KOR,Korea,East Asia & Pacific,High income
+KWT,Kuwait,Middle East & North Africa,High income
+LAC,Latin America & Caribbean (excluding high income),Aggregates,Aggregates
+LAO,Lao People's Democratic Republic,East Asia & Pacific,Lower middle income
+LBN,Lebanon,Middle East & North Africa,Upper middle income
+LBR,Liberia,Sub-Saharan Africa ,Low income
+LBY,Libya,Middle East & North Africa,Upper middle income
+LBY,Libyan Arab Jamahiriya,Middle East & North Africa,Upper middle income
+LCA,Saint Lucia,Latin America & Caribbean ,Upper middle income
+LCN,Latin America & Caribbean ,Aggregates,Aggregates
+LDC,Least developed countries: UN classification,Aggregates,Aggregates
+LIC,Low income,Aggregates,Aggregates
+LIE,Liechtenstein,Europe & Central Asia,High income
+LKA,Sri Lanka,South Asia,Lower middle income
+LMC,Lower middle income,Aggregates,Aggregates
+LMY,Low & middle income,Aggregates,Aggregates
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income
+LTE,Late-demographic dividend,Aggregates,Aggregates
+LTU,Lithuania,Europe & Central Asia,High income
+LUX,Luxembourg,Europe & Central Asia,High income
+LVA,Latvia,Europe & Central Asia,High income
+MAC,Macao,East Asia & Pacific,High income
+MAF,Saint Martin,Latin America & Caribbean ,High income
+MAR,Morocco,Middle East & North Africa,Lower middle income
+MCO,Monaco,Europe & Central Asia,High income
+MDA,Moldova,Europe & Central Asia,Upper middle income
+MDE,Middle East (developing only),Aggregates,Aggregates
+MDG,Madagascar,Sub-Saharan Africa ,Low income
+MDV,Maldives,South Asia,Upper middle income
+MEA,Middle East & North Africa,Aggregates,Aggregates
+MEX,Mexico,Latin America & Caribbean ,Upper middle income
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income
+MIC,Middle income,Aggregates,Aggregates
+MKD,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,Macedonia,Europe & Central Asia,Upper middle income
+MLI,Mali,Sub-Saharan Africa ,Low income
+MLT,Malta,Middle East & North Africa,High income
+MMR,Myanmar,East Asia & Pacific,Lower middle income
+MNA,Middle East & North Africa (excluding high income),Aggregates,Aggregates
+MNE,Montenegro,Europe & Central Asia,Upper middle income
+MNG,Mongolia,East Asia & Pacific,Lower middle income
+MNP,Northern Mariana Islands,East Asia & Pacific,High income
+MOZ,Mozambique,Sub-Saharan Africa ,Low income
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income
+MWI,Malawi,Sub-Saharan Africa ,Low income
+MYS,Malaysia,East Asia & Pacific,Upper middle income
+NAC,North America,Aggregates,Aggregates
+NAF,North Africa,Aggregates,Aggregates
+NAM,Namibia,Sub-Saharan Africa ,Upper middle income
+NCL,New Caledonia,East Asia & Pacific,High income
+NER,Niger,Sub-Saharan Africa ,Low income
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income
+NLD,Netherlands,Europe & Central Asia,High income
+NOR,Norway,Europe & Central Asia,High income
+NPL,Nepal,South Asia,Lower middle income
+NRS,Non-resource rich Sub-Saharan Africa countries,Aggregates,Aggregates
+NRU,Nauru,East Asia & Pacific,High income
+NXS,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa",Aggregates,Aggregates
+NZL,New Zealand,East Asia & Pacific,High income
+OED,OECD members,Aggregates,Aggregates
+OMN,Oman,Middle East & North Africa,High income
+OSS,Other small states,Aggregates,Aggregates
+PAK,Pakistan,South Asia,Lower middle income
+PAN,Panama,Latin America & Caribbean ,Upper middle income
+PER,Peru,Latin America & Caribbean ,Upper middle income
+PHL,Philippines,East Asia & Pacific,Lower middle income
+PLW,Palau,East Asia & Pacific,High income
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income
+POL,Poland,Europe & Central Asia,High income
+PRE,Pre-demographic dividend,Aggregates,Aggregates
+PRI,Puerto Rico,Latin America & Caribbean ,High income
+PRT,Portugal,Europe & Central Asia,High income
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,Palestinian Territory,Middle East & North Africa,Lower middle income
+PSS,Pacific island small states,Aggregates,Aggregates
+PST,Post-demographic dividend,Aggregates,Aggregates
+PYF,French Polynesia,East Asia & Pacific,High income
+QAT,Qatar,Middle East & North Africa,High income
+ROU,Romania,Europe & Central Asia,Upper middle income
+RRS,Resource rich Sub-Saharan Africa countries,Aggregates,Aggregates
+RUS,Russian Federation,Europe & Central Asia,Upper middle income
+RWA,Rwanda,Sub-Saharan Africa ,Low income
+SAS,South Asia,Aggregates,Aggregates
+SAU,Saudi Arabia,Middle East & North Africa,High income
+SDN,Sudan,Sub-Saharan Africa ,Low income
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income
+SGP,Singapore,East Asia & Pacific,High income
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income
+SLV,El Salvador,Latin America & Caribbean ,Lower middle income
+SMR,San Marino,Europe & Central Asia,High income
+SOM,Somalia,Sub-Saharan Africa ,Low income
+SRB,Serbia,Europe & Central Asia,Upper middle income
+SSA,Sub-Saharan Africa (excluding high income),Aggregates,Aggregates
+SSD,South Sudan,Sub-Saharan Africa ,Low income
+SSF,Sub-Saharan Africa ,Aggregates,Aggregates
+SST,Small states,Aggregates,Aggregates
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income
+SUR,Suriname,Latin America & Caribbean ,Upper middle income
+SVK,Slovak Republic,Europe & Central Asia,High income
+SVK,Slovakia (Slovak Republic),Europe & Central Asia,High income
+SVN,Slovenia,Europe & Central Asia,High income
+SWE,Sweden,Europe & Central Asia,High income
+SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income
+SWZ,Swaziland,Sub-Saharan Africa ,Lower middle income
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income
+SXZ,Sub-Saharan Africa excluding South Africa,Aggregates,Aggregates
+SYC,Seychelles,Sub-Saharan Africa ,High income
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income
+TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income
+TCD,Chad,Sub-Saharan Africa ,Low income
+TEA,East Asia & Pacific (IDA & IBRD countries),Aggregates,Aggregates
+TEC,Europe & Central Asia (IDA & IBRD countries),Aggregates,Aggregates
+TGO,Togo,Sub-Saharan Africa ,Low income
+THA,Thailand,East Asia & Pacific,Upper middle income
+TJK,Tajikistan,Europe & Central Asia,Lower middle income
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income
+TLA,Latin America & the Caribbean (IDA & IBRD countries),Aggregates,Aggregates
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income
+TMN,Middle East & North Africa (IDA & IBRD countries),Aggregates,Aggregates
+TON,Tonga,East Asia & Pacific,Upper middle income
+TSA,South Asia (IDA & IBRD),Aggregates,Aggregates
+TSS,Sub-Saharan Africa (IDA & IBRD countries),Aggregates,Aggregates
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income
+TUN,Tunisia,Middle East & North Africa,Lower middle income
+TUR,Turkey,Europe & Central Asia,Upper middle income
+TUV,Tuvalu,East Asia & Pacific,Upper middle income
+TWN,Taiwan,East Asia & Pacific,High income
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income
+UGA,Uganda,Sub-Saharan Africa ,Low income
+UKR,Ukraine,Europe & Central Asia,Lower middle income
+UMC,Upper middle income,Aggregates,Aggregates
+URY,Uruguay,Latin America & Caribbean ,High income
+USA,United States,North America,High income
+USA,United States of America,North America,High income
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income
+VCT,Saint Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income
+VEN,Venezuela,Latin America & Caribbean ,Not classified
+VGB,British Virgin Islands,Latin America & Caribbean ,High income
+VIR,Virgin Islands (U.S.),Latin America & Caribbean ,High income
+VIR,United States Virgin Islands,Latin America & Caribbean ,High income
+VNM,Vietnam,East Asia & Pacific,Lower middle income
+VUT,Vanuatu,East Asia & Pacific,Lower middle income
+WLD,World,Aggregates,Aggregates
+WSM,Samoa,East Asia & Pacific,Lower middle income
+XKX,Kosovo,Europe & Central Asia,Upper middle income
+XZN,Sub-Saharan Africa excluding South Africa and Nigeria,Aggregates,Aggregates
+YEM,Yemen,Middle East & North Africa,Low income
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income
+OSS,British Indian Ocean Territory (Chagos Archipelago),Aggregates,Aggregates
+OSS,Tokelau,Aggregates,Aggregates
+OSS,Bouvet Island (Bouvetoya),Aggregates,Aggregates
+OSS,Saint Helena,Aggregates,Aggregates
+OSS,Svalbard & Jan Mayen Islands,Aggregates,Aggregates
+OSS,Christmas Island,Aggregates,Aggregates
+OSS,Norfolk Island,Aggregates,Aggregates
+OSS,Cook Islands,Aggregates,Aggregates
+OSS,Montserrat,Aggregates,Aggregates
+OSS,Wallis and Futuna,Aggregates,Aggregates
+OSS,Jersey,Aggregates,Aggregates
+OSS,Antarctica (the territory South of 60 deg S),Aggregates,Aggregates
+OSS,Western Sahara,Aggregates,Aggregates
+OSS,Guernsey,Aggregates,Aggregates
+OSS,Martinique,Aggregates,Aggregates
+OSS,Falkland Islands (Malvinas),Aggregates,Aggregates
+OSS,United States Minor Outlying Islands,Aggregates,Aggregates
+OSS,Holy See (Vatican City State),Aggregates,Aggregates
+OSS,Mayotte,Aggregates,Aggregates
+OSS,Saint Pierre and Miquelon,Aggregates,Aggregates
+OSS,French Southern Territories,Aggregates,Aggregates
+OSS,Guadeloupe,Aggregates,Aggregates
+OSS,French Guiana,Aggregates,Aggregates
+OSS,Niue,Aggregates,Aggregates
+OSS,Pitcairn Islands,Aggregates,Aggregates
+OSS,Anguilla,Aggregates,Aggregates
+OSS,Saint Barthelemy,Aggregates,Aggregates
+OSS,Reunion,Aggregates,Aggregates
+OSS,Heard Island and McDonald Islands,Aggregates,Aggregates
+OSS,Netherlands Antilles,Aggregates,Aggregates
+OSS,South Georgia and the South Sandwich Islands,Aggregates,Aggregates
